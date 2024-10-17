@@ -19,6 +19,7 @@ data to a file.
 # FEATURE SELECTION:
 Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well.
 The feature selection techniques used are:
+```
 1.Filter Method
 2.Wrapper Method
 3.Embedded Method
