@@ -23,6 +23,7 @@ The feature selection techniques used are:
 1.Filter Method
 2.Wrapper Method
 3.Embedded Method
+```
 
 # CODING AND OUTPUT:
 ```
